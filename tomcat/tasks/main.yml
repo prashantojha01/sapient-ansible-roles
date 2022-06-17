@@ -2,3 +2,4 @@
 # tasks file for tomcat
 - import_tasks: installjdk.yml
 - import_tasks: user.yml
+- import_tasks: tomcat.yml
