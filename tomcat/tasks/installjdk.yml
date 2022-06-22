@@ -1,6 +1,6 @@
 #install open jdk
 ---
-- name: install java
+- name: installing java
   apt:
         name: openjdk-13-jre-headless
         state: present
